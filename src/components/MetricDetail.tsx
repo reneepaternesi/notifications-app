@@ -16,7 +16,6 @@ const MetricDetail = () => {
       setNotification(notifications.find((notification: INotification) => notification.id === state.id))
     }
     setIsLoading(false)
-    console.log(notification)
   }, [state.id])
 
   return (
