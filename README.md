@@ -10,3 +10,6 @@ This project's goal is to implement a simple web app that allows to see anomaly 
 
 ## Link to deploy
 `https://notifications-app-topaz.vercel.app/`
+
+## Preview
+<img width="1508" alt="imagen" src="https://github.com/reneepaternesi/notifications-app/assets/6638639/d6136e7a-0962-492a-8751-6e8e03400205">
