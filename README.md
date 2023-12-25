@@ -2,7 +2,7 @@
 
 This project's goal is to implement a simple web app that allows to see anomaly service notifications, in response to the received coding challenge
 
-## Steps to run hhe project locally
+## Steps to run the project locally
 1. Clon repo
 2. Install dependencies with `npm i`
 3. Run `npm start`
